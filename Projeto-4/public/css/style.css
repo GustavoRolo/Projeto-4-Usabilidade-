@@ -1,0 +1,149 @@
+html,body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background-image: url(../assents/background.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#cabecalho{
+height: 400px;
+}
+
+#redes{
+    width: 100px;
+	height: 40px;
+    padding-top: 10px;
+	position: relative;
+    top: 18%;
+    background-image: url(../assents/fundo_redes.png);
+    background-repeat: no-repeat;
+}
+
+#logo{
+    position: absolute;
+    left:45%
+
+}
+
+#menu{
+    height: 20%;
+    width: 50%;
+    margin-left: 26%;
+	background:url(../assents/fundo_menu.png);
+    margin-top: 16%;
+    background-repeat: no-repeat;
+	text-align: auto;
+	word-spacing: 80px;
+    padding: 1px;
+}
+
+#conteudo{
+    width: 70%;
+    height: 700px;
+    margin-left: 10%;
+    margin-top: 0.5%;
+    position: absolute;
+    
+
+}
+
+#contsobre{
+    background-image: url(../assents/fundo_conteudos.png);
+    background-repeat: no-repeat;
+    margin-left: 24%;
+    width: 250px;
+    height: 454px;
+    text-align: justify;
+    float: left;
+    
+}
+
+#contservico{
+    background-image: url(../assents/fundo_conteudos.png);
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 454px;
+    margin-left: 2%;
+    text-align: justify;
+    float: left;
+    
+}
+
+#contcontatos{
+  background-image: url(../assents/fundo_conteudo_amarelo.png);
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 454px;
+    margin-left: 2%;
+    text-align: justify;
+    color: white;
+    float: left;
+    
+}
+
+#contfoto{
+    display: flex;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+#conttexto{
+    display: inline-block;
+    width: 200px;
+    margin-left: 10px;
+}
+
+#atendimento{
+    background-image: url(../assents/fundo_horizontal.png);
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 200px;
+    margin-top: 43%;
+     margin-left: 24%;
+
+}
+
+#atendtext{
+    margin-left: 10px;
+    width: 670px;
+    display: inline-block;
+    margin-top: 70px;
+}
+
+#rodape{
+    margin-top: 44%;
+    background-image: url(../assents/fundo_rodape.jpg);
+    color: white;
+    height: 100px;
+    background-color: blue;
+}
+
+#textrodape{
+display: block;
+margin-left: 340px;
+margin-right: 50px;
+float: left;
+}
+
+
+
+
+
